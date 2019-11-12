@@ -13,6 +13,7 @@ namespace ConsoleApp3
             Console.WriteLine("First case updated");
             Console.WriteLine("Second case updated");
             Console.WriteLine("Third case updated");
+            Console.WriteLine("************************");
             Console.ReadLine();
         }
     }
