@@ -14,6 +14,8 @@ namespace ConsoleApp3
             Console.WriteLine("Second case updated");
             Console.WriteLine("Third case updated");
             Console.WriteLine("************************");
+            Console.WriteLine("Fifith case updated web");
+            Console.WriteLine("Sixth case updated web");
             Console.ReadLine();
         }
     }
