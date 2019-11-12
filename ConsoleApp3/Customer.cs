@@ -9,6 +9,7 @@ namespace ConsoleApp3
     class Customer
     {
         private string name;
+        private int id;
 
         public string Name
         {
@@ -22,5 +23,16 @@ namespace ConsoleApp3
             }
         }
 
+        public int Id
+        {
+            get
+            {
+              return id;
+            }
+            set
+            {
+                id = value;
+            }
+        }
     }
 }
