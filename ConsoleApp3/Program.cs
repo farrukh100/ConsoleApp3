@@ -11,6 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("First case updated");
+            Console.WriteLine("Second case updated");
             Console.ReadLine();
         }
     }
