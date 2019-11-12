@@ -8,5 +8,20 @@ namespace ConsoleApp3
 {
     class Department
     {
+        private string dname;
+    
+
+        public string dName
+        {
+            get
+            {
+                return dname;
+            }
+            set
+            {
+                dname = value;
+            }
+        }
+
     }
 }
