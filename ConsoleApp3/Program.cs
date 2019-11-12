@@ -11,7 +11,10 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("First case");
+            Console.WriteLine("Second case");
+
             Console.ReadLine();
+
         }
     }
 }
