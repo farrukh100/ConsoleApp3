@@ -20,6 +20,7 @@ namespace ConsoleApp3
             Console.WriteLine("Seventh case updated web");
             Console.WriteLine("Eight case updated");
             Console.WriteLine("Ninth case updated web");
+            Console.WriteLine("11th case updated ");
             Console.ReadLine();
         }
     }
