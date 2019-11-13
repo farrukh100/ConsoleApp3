@@ -30,6 +30,7 @@ namespace ConsoleApp3
             Console.WriteLine("16th case updated ");
             Console.WriteLine("17th case updated ");
             Console.WriteLine("18th case updated ");
+            Console.WriteLine("20th case updated ");
             Console.ReadLine();
         }
     }
