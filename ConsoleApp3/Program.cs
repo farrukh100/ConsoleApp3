@@ -25,6 +25,7 @@ namespace ConsoleApp3
             Console.WriteLine("11th case updated ");
             Console.WriteLine("12th case updated ");
             Console.WriteLine("13th case updated ");
+            Console.WriteLine("14th case updated ");
             Console.ReadLine();
         }
     }
