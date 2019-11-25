@@ -43,7 +43,9 @@ namespace ConsoleApp3
             Console.WriteLine("29th case updated web");
             Console.WriteLine("30th case updated ");           
             Console.WriteLine("31th case updated ");
-            Console.WriteLine("32th case updated ");         
+            Console.WriteLine("32th case updated ");
+            Console.WriteLine("36th case updated ");
+            Console.WriteLine("37th case updated ");
             Console.ReadLine();
         }
     }
